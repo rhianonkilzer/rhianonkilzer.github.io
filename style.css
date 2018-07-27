@@ -108,9 +108,15 @@ button:hover, a:hover {
 }
 
 h5 {
-    color: rgb(255, 255, 255);
-    height: 250px;
+    height: 100%;
     font-family: 'Caveat', cursive;
-    font-size: 1.5rem;
     text-align: justify;
+    color: rgb(255, 255, 255);
+}
+
+.about-me {
+    height: 100%;
+    font-family: 'Caveat', cursive;
+    text-align: justify;
+    color: rgb(255, 255, 255);
 }
