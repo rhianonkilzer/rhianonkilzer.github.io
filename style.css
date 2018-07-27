@@ -1,17 +1,24 @@
 p {
     font-family: 'Nothing You Could Do', cursive;
-    color: #f1f1f1;
-    background-color: #476269;
+    color: #ffffff;
+    background-color: #182527;
 }
 
 header {
  height: 600px;
  background-image: url(wave.jpg);
  background-position: center;
-border-radius: 0px 0px 3px 3px;
+ border-radius: 0px 0px 3px 3px;
+ position: relative;
 }
 .name-title {
     font-family: 'La Belle Aurore', cursive;
     color: #f1f1f1;
-
+    position: absolute;
+    bottom: 4rem;
+    left: 3rem;
+    font-size: 5.5rem;
+}
+body{
+    background-image: linear-gradient(to top, #74bebe 0%, #3d3d3d 100%);
 }
