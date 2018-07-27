@@ -48,10 +48,12 @@ header {
 
 body{
     background-image: linear-gradient(to bottom, #74bebe 0%, #000000 100%);
+    height: 100%;
 }
 
 footer {
     height: 100px;
+    background-color: black;
 }
 
 .avatar {
@@ -110,4 +112,5 @@ h5 {
     height: 250px;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
+    text-align: justify;
 }
