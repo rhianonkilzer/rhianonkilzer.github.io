@@ -44,6 +44,7 @@ header {
 body{
     background-image: linear-gradient(to bottom, #74bebe 0%, #000000 100%);
     height: 100%;
+    width: 100%;
 }
 
 footer {
