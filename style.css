@@ -39,7 +39,7 @@ header {
  position: relative;
 
 }
-
+@media screen and (max-width: 600px) {
 .name-title {
     font-family: 'La Belle Aurore', cursive;
     color: #f1f1f1;
@@ -47,7 +47,7 @@ header {
     bottom: 5rem;
     left: 3rem;
     font-size: 9.5rem;
-}
+}}
 
 body{
     background-image: linear-gradient(to bottom, #74bebe 0%, #000000 100%);
