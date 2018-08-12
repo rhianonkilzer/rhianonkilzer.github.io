@@ -9,7 +9,7 @@ header {
    .navbar {
     background-color: #333;
     overflow: hidden;
-    
+    height: 65px;
 }
 
 .navbar a {
@@ -18,7 +18,7 @@ header {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'La Belle Aurore', cursive;
 }
 
@@ -32,22 +32,15 @@ header {
     color: white;
 }
 
-header {
- height: 700px;
- background-image: url(wave.jpg);
- background-position: center;
- position: relative;
-
-}
-@media screen and (max-width: 600px) {
+ 
 .name-title {
     font-family: 'La Belle Aurore', cursive;
     color: #f1f1f1;
     position: absolute;
     bottom: 5rem;
     left: 3rem;
-    font-size: 9.5rem;
-}}
+    font-size: 321%;
+}
 
 body{
     background-image: linear-gradient(to bottom, #74bebe 0%, #000000 100%);
