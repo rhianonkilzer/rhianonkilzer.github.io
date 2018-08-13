@@ -14,7 +14,7 @@ header {
 
 .navbar a {
     float: left;
-    color: #000000;
+    color: #004400;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -23,13 +23,13 @@ header {
 }
 
 .navbar a:hover {
-    background-color: #ddd;
+    background-color: rgb(2, 58, 23);
     color: black;
 }
 
 .navbar a.active {
     background-color: #000000;
-    color: white;
+    color: rgb(56, 90, 53);
 }
 
  
@@ -37,8 +37,8 @@ header {
     font-family: 'La Belle Aurore', cursive;
     color: #ffffff;
     position: absolute;
-    bottom: 5rem;
-    left: 3rem;
+    bottom: 10rem;
+    left: 4rem;
     font-size: 321%;
 }
 
@@ -99,7 +99,7 @@ h5 {
 .about-me {
     height: 100%;
     text-align: justify;
-    color: rgb(179, 179, 179);
+   
     
 }
 h1 {
@@ -110,7 +110,7 @@ h1 {
 p{
     font-family: 'Caveat', cursive;
     font-size: 2rem;
-    color: rgb(197, 197, 197);
+    color: rgb(0, 0, 0);
 }
 
 div.gallery {
