@@ -46,11 +46,6 @@ body {
     width: 100%;
 }
 
-i {
-    font-size: 40px;
-    justify-content: space-evenly;
-}
-
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     max-width: 300px;
@@ -78,7 +73,7 @@ button {
 
 a {
     text-decoration: none;
-    font-size: 22px;
+    font-size: 3.5rem;
     color: black;
 }
 
@@ -140,5 +135,8 @@ div.desc {
         font-size: 1.8rem;
         bottom: 9rem;
         left: 3rem;
+    }
+    .icons{
+        font-size: 2rem;
     }
 }
